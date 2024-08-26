@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently enrolled in the Master of Scienece in Electrical and Compuer Engineering Program at Purdue University.
+- 🔭 I currently work as Software Engineer at Robert Bosch Company.
